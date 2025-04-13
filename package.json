@@ -15,9 +15,10 @@
     "commander": "^13.1.0",
     "dayjs": "^1.11.13",
     "fs-extra": "^11.3.0",
+    "inquirer": "^12.5.2",
     "mime-types": "^3.0.1"
   },
   "bin": {
-    "tidy": "./tidy.js"
+    "tidy": "./index.js"
   }
 }

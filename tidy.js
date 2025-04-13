@@ -1,2 +1,4 @@
-#!/usr/bin/env node
-console.log("👋 Hello from tidy!");
+async function tidyDirectory(dir, options) {}
+module.exports = {
+  tidyDirectory,
+};
